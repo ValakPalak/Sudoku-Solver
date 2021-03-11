@@ -13,7 +13,7 @@ Install pygame using command "pip install pygame".
 
 ### To Play
 ```
- Click a box and feed the number. Click ENTER. If it is correct number than it will be accpted otherwise it will be rejected.
+ Click a box and feed the number. Click ENTER. If it is correct number then it will be accepted otherwise it will be rejected.
  ```
  ```
  Press 'q' :- For quick solving Sudoku
