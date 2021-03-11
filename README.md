@@ -1,6 +1,6 @@
 
 # Sudoku
-Developed a GUI based sudoku game. It generates random valid sudoku which user can play with. Implemented a solver feature using backtracing algorithm to find solution to any solvable sudoku. Using: Python(Pygame Library)  
+Developed a GUI based sudoku game. It generates random valid sudoku which user can play with. Implemented a solver feature using backtracking algorithm to find solution to any solvable sudoku. Using: Python(Pygame Library)  
 
 
 ### Getting Started
